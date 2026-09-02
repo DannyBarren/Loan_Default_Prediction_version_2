@@ -1,0 +1,4 @@
+__pycache__/
+.venv/
+transformed_loan_data.csv
+output.csv
